@@ -15,7 +15,7 @@ of 3 options we got 5 options to choose from:
   - `Grenade` ***beats*** `Human` and `Shield`, but ***lose*** to `Sword` and `Gun`
 
 ## HOW TO PLAY (FIRST TO WIN 3 GAMES)
-![Funkit](C:\Users\GGPC\OneDrive\Desktop\Funkit.jpg)
+![Funkit](Funkit.jpg)
 1.  Using your terminal create a folder using `"git clone https://eng-git.canterbury.ac.nz/ence260-2020/group-205.git"`. (Folder can be created anywhere) Enter your UC id and password.
 2.  Double click on the folder and open terminal.
 3.  Both players will type `"Make"` into the terminal to compile the game and `"Make program"` after the compile has finish to play the game.
